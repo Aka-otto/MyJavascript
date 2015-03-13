@@ -1,0 +1,2 @@
+# MyJavascript
+For exercise myself
