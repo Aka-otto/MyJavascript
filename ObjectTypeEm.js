@@ -1,5 +1,5 @@
-#author @y4ngshu
-#time   2015/3/16
+// author @y4ngshu
+// time   2015/3/16
 
 function dispalyInfo (args) {
 	var output = "";
