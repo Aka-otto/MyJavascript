@@ -1,4 +1,4 @@
 # MyJavascript
-For exercise myself
-# 这是一个git测试
-# how to play commit
+
+
+#### - 这是自己用来练习和熟悉js语法的仓库
